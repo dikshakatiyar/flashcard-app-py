@@ -1,7 +1,6 @@
-streamlit==1.32.0
+streamlit==1.35.0
 pdfplumber==0.10.3
 google-genai==1.72.0
 python-dotenv==1.0.0
-reportlab==4.0.4
-Pillow==10.1.0
-streamlit-card-swiper==0.1.0
+reportlab==4.2.5
+requests==2.31.0
